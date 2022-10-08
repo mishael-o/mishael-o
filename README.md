@@ -1,6 +1,4 @@
-Hi 👋🏾 there,
-
-I am Software Engineer with expertise in the .NET ecosystem.
+Hi 👋🏾 there, I am Software Engineer with expertise in the .NET ecosystem.
 
 📫 How to reach me
 
