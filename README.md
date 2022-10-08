@@ -1,6 +1,6 @@
 Hi 👋🏾 there,
 
-I am Software Engineer, with expertise in the .NET ecosystem and Azure.
+I am Software Engineer with expertise in the .NET ecosystem.
 
 📫 How to reach me
 
