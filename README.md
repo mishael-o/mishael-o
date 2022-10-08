@@ -5,7 +5,8 @@ Hi 👋🏾 there, I am Software Engineer with expertise in the .NET ecosystem.
 [![Mishael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishael-o&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Open Source Projects
-<!---✨ [Dapper.SimpleSqlBuilder](https://github.com/mishael-o/Dapper.SimpleSqlBuilder)--->
+
+✨ [Dapper.SimpleSqlBuilder](https://github.com/mishael-o/Dapper.SimpleSqlBuilder): A simple sql builder for Dapper using string interpolation for building dynamic sql.
 
 <!---
 mishael-o/mishael-o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
