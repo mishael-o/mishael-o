@@ -6,7 +6,7 @@ Hi 👋🏾 there, I am Software Engineer and an open-source contributor with ex
 
 Open Source Projects
 
-✨ [Dapper.SimpleSqlBuilder](https://github.com/mishael-o/Dapper.SimpleSqlBuilder): A simple sql builder for Dapper using string interpolation for building dynamic sql.
+✨ [Dapper.SimpleSqlBuilder](https://github.com/mishael-o/Dapper.SimpleSqlBuilder): A simple SQL builder for Dapper using string interpolation and fluent API for building dynamic SQL.
 
 <!---
 mishael-o/mishael-o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
