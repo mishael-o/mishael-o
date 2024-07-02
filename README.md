@@ -4,11 +4,12 @@ Hi 👋🏾 there, I am a Software Engineer and an open-source contributor with 
 
 <!--[![Mishael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishael-o&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![Mishael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishael-o&show_icons=true&theme=tokyonight&hide_rank=true)
+![Mishael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishael-o&show_icons=true&theme=github_dark&hide_rank=true)
 
 Open Source Projects
+---
 
-✨ [Dapper.SimpleSqlBuilder](https://github.com/mishael-o/Dapper.SimpleSqlBuilder): A simple SQL builder for Dapper using string interpolation and fluent API for building dynamic SQL.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishael-o&repo=Dapper.SimpleSqlBuilder&theme=github_dark)](https://github.com/mishael-o/Dapper.SimpleSqlBuilder)
 
 <!---
 mishael-o/mishael-o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
