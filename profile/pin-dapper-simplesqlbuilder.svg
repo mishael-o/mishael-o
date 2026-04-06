@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 400 120" width="400px" height="120px" direction="ltr">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
+    .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e4e2e2; }
+    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e4e2e2; }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" height="99%" stroke="#30363d" width="399" fill="#0d1117" stroke-opacity="1"/>
+  <g transform="translate(25, 40)">
+    <text x="0" y="0" class="header">mishael-o/Dapper.SimpleSqlBuilder</text>
+  </g>
+  <g transform="translate(25, 65)">
+    <text class="description">Loading...</text>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 450 195" width="450px" height="195px" direction="ltr">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; animation: fadeInAnimation 0.8s ease-in-out forwards; }
+    .stat { font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #e4e2e2; }
+    .bold { font-weight: 700; }
+    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e4e2e2; }
+    @keyframes fadeInAnimation { from { opacity: 0; } to { opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" height="99%" stroke="#30363d" width="449" fill="#0d1117" stroke-opacity="1"/>
+  <g transform="translate(25, 35)">
+    <text x="0" y="0" class="header" data-testid="header">Mishael&#39;s GitHub Stats</text>
+  </g>
+  <g transform="translate(0, 55)">
+    <g transform="translate(25, 0)">
+      <text class="stat bold" y="12.5">Total Stars Earned:</text>
+      <text class="stat" x="235" y="12.5" data-testid="stars">Loading...</text>
+    </g>
+    <g transform="translate(25, 25)">
+      <text class="stat bold" y="12.5">Total Commits (this year):</text>
+      <text class="stat" x="235" y="12.5" data-testid="commits">Loading...</text>
+    </g>
+    <g transform="translate(25, 50)">
+      <text class="stat bold" y="12.5">Total PRs:</text>
+      <text class="stat" x="235" y="12.5" data-testid="prs">Loading...</text>
+    </g>
+    <g transform="translate(25, 75)">
+      <text class="stat bold" y="12.5">Total Issues:</text>
+      <text class="stat" x="235" y="12.5" data-testid="issues">Loading...</text>
+    </g>
+    <g transform="translate(25, 100)">
+      <text class="stat bold" y="12.5">Contributed to (last year):</text>
+      <text class="stat" x="235" y="12.5" data-testid="contribs">Loading...</text>
+    </g>
+  </g>
+</svg>
