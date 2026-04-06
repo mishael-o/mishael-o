@@ -4,12 +4,12 @@ Hi 👋🏾 there, I am a Software Engineer and an open-source contributor with 
 
 <!--[![Mishael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishael-o&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![Mishael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishael-o&show_icons=true&theme=github_dark&hide_rank=true)
+![Mishael's GitHub stats](./profile/stats.svg)
 
 Open Source Projects
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishael-o&repo=Dapper.SimpleSqlBuilder&theme=github_dark)](https://github.com/mishael-o/Dapper.SimpleSqlBuilder)
+[![Readme Card](./profile/pin-dapper-simplesqlbuilder.svg)](https://github.com/mishael-o/Dapper.SimpleSqlBuilder)
 
 <!---
 mishael-o/mishael-o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
