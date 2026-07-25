@@ -2,7 +2,7 @@ Hi 👋🏾 there, I am a Software Engineer and an open-source contributor with 
 
 [![email](https://img.shields.io/badge/email-blue?logo=mail.ru&style=for-the-badge)](mailto:mishael.ogo@outlook.com) [![linkedIn](https://img.shields.io/badge/linkedIn-blue?logo=linkedIn&style=for-the-badge)](https://www.linkedin.com/in/mishael-ogochukwu-b9057950)
 
-<!--[![Mishael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishael-o&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Mishael's GitHub stats](https://github-stats-extended.vercel.app/api?username=mishael-o&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)-->
 
 ![Mishael's GitHub stats](./profile/stats.svg)
 
